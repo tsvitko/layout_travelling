@@ -8,4 +8,4 @@
 - анимацию
 
 
-Посмотреть [здесь] (https://tsvitko.github.io/layout_travelling/)
+Посмотреть [здесь](https://tsvitko.github.io/layout_travelling/)
